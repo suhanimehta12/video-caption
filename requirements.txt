@@ -1,8 +1,9 @@
-numpy==1.23.0
-streamlit==1.21.0
-opencv-python==4.5.5.64
-transformers==4.26.1
-torch==1.13.1
-Pillow==9.1.0
-tempfile
-os
+opencv-python==4.7.0.72
+numpy==1.23.1
+transformers==4.29.0
+torch==2.0.0
+Pillow==9.4.0
+streamlit==1.18.1
+tqdm==4.64.0  # For progress bars (optional)
+scipy==1.9.3   # Optional for some environments
+ffmpeg-python==4.4.0  # For handling video encoding/decoding (Optional)
