@@ -4,3 +4,5 @@ transformers
 torch
 pillow
 numpy
+python==3.10
+
