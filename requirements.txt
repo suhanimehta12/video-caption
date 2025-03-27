@@ -1,8 +1,7 @@
-streamlit
-opencv-python
-transformers
-torch
-pillow
-numpy
-python==3.10
+streamlit==1.21.0
+opencv-python==4.5.5.64
+numpy==1.23.0
+transformers==4.26.1
+torch==1.13.1
+Pillow==9.1.0
 
